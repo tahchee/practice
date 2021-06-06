@@ -1,0 +1,15 @@
+.detail {
+  text-align: center;
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+  .detail tbody {
+    text-align: center; }
+    .detail tbody .subtitle {
+      margin-right: 20px;
+      font-weight: bold;
+      margin-bottom: 30px; }
+    .detail tbody .text {
+      max-width: 600px;
+      margin-bottom: 30px; }

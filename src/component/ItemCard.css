@@ -1,0 +1,12 @@
+.ellipsis{
+    display:-webkit-box;
+    -webkit-line-clamp:1; 
+    -webkit-box-orient:vertical;
+    white-space:normal;
+    line-height:1.2em;
+    height:1.2em; /*1.2*라인수 */
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-wrap: unset; 
+}
+

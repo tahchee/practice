@@ -1,0 +1,17 @@
+.title{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin:10px;
+}
+
+.date{
+    font-size: 20px;
+    text-align: center;
+    margin:10px;
+}
+
+.togglebutton{
+    margin-left: 20px;
+    background-color: rgb(209, 209, 209);
+}
